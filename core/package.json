@@ -1,0 +1,61 @@
+{
+	"name": "sub-bab 1",
+	"private": true,
+	"version": "1.0.0",
+	"type": "module",
+	"author": {
+		"name": "Matthew {@archangel-12 || @thenothing12} Alexander",
+		"email": "sebastianhedforst@gmail.com",
+		"url": "https://thenothing-12.vercel.app/",
+		"institution": "State University of Surabaya",
+		"location": "https://panekankec.magetan.go.id/"
+	},
+	"contact": {
+		"instagram": "@r3yanson"
+	},
+	"description": "dit soort repository is bedoeld als materiaal om te leren hoe shopify werkt",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thenothing12/all-about-shopify.git"
+	},
+	"contributors": [
+		{
+			"name": "Zufar Roshid Arkhan"
+		},
+		{
+			"name": "Ridho Rusdani",
+			"instagram": "@adolf_rusdani"
+		}
+	],
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview",
+		"check": "svelte-check --tsconfig ./tsconfig.json"
+	},
+	"devDependencies": {
+		"@sveltejs/vite-plugin-svelte": "^3.1.2",
+		"@tsconfig/svelte": "^5.0.4",
+		"@types/d3-interpolate": "^3.0.4",
+		"@types/node": "^20.16.2",
+		"@types/reveal.js": "^5.0.3",
+		"autoprefixer": "^10.4.20",
+		"postcss": "^8.4.41",
+		"postcss-load-config": "^5.1.0",
+		"prettier": "^3.3.3",
+		"prettier-plugin-svelte": "^3.2.6",
+		"prettier-plugin-tailwindcss": "^0.5.14",
+		"svelte": "^4.2.19",
+		"svelte-check": "^3.8.6",
+		"tailwindcss": "^3.4.10",
+		"tslib": "^2.7.0",
+		"typescript": "^5.5.4",
+		"vite": "^5.4.2"
+	},
+	"dependencies": {
+		"@fontsource-variable/jetbrains-mono": "^5.0.22",
+		"@fontsource-variable/manrope": "^5.0.21",
+		"d3-interpolate": "^3.0.1",
+		"reveal.js": "^5.1.0"
+	}
+}

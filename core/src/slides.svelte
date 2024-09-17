@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { Presentation } from '@components';
 	import Criminal from "./public/war criminal.jpg";
+	import Buzz from "./public/buzz.jpg";
 </script>
 
 <Presentation>
@@ -38,7 +39,7 @@
 				<section data-background-image="https://space.skyrocket.de/img_sat/sputnik-1__1.jpg">
 					<h1 style="color: whitesmoke; font-size: 4rem">Sputnik 1</h1>
 				</section>
-				<section data-background-image="https://ilmugeografi.com/wp-content/uploads/2019/07/7c943f58-buzz-flag.jpg">
+				<section data-background-image={Buzz}>
 					<div style="position: left; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
 						<h2>The Eagle has Landed 🥳🥳🥳</h2>
 						<p>Ini adalah foto dari astronot Buzz Aldrin hormat ke bendera Amerika di Bulan. Buzz Aldrin tergabung dalam misi Apollo 11, yang dimana ia beserta Astronot Neil Armstrong menjadi manusia pertama yang menginjakkan kaki di Bulan</p>

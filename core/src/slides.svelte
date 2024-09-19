@@ -9,7 +9,11 @@
 		<div class="slides">
 			<section>
 				<section data-background-image="https://pbs.twimg.com/media/GVlUy37boAA6-QH.jpg">
+<<<<<<< HEAD
+					<h1 style="font-size: 4rem; color: black">Indonesia di tengah konstelasi Perang Dingin</h1>
+=======
 					<h1 style="font-size: 4rem; color: Pink">Indonesia di tengah konstelasi Perang Dingin</h1>
+>>>>>>> 8dd7bf992662f8b8bf3b7ac86fde9632ea7cab2b
 				</section>
 				<section data-background-image="https://histlit.fas.harvard.edu/sites/projects.iq.harvard.edu/files/styles/os_files_xxlarge/public/histlit/files/screen_shot_2019-11-26_at_8.59.29_am.png?m=1574776819&itok=lZyW2vi3" />
 				<section data-background-image="https://miro.medium.com/v2/resize:fit:1400/0*u-K6cRlTQc1sVO3W.jpg" />
@@ -35,7 +39,7 @@
 				<section data-background-image="https://mf.b37mrtl.ru/rbthmedia/images/2019.03/article/5c9cbf9f85600a18d643c492.jpg" />
 				<section data-background-image="https://mf.b37mrtl.ru/rbthmedia/images/2019.03/article/5c9cbf9f85600a18d643c492.jpg">
 					<h1 style="color: black; font-size: 4rem">Юрий Алексеевич Гагарин</h1>
-					<p style="color: black">Yuri Alexyevich Gagarin</p>
+					<p style="color: white;">Yuri Alexyevich Gagarin</p>
 				</section>
 				<section data-background-image="https://space.skyrocket.de/img_sat/sputnik-1__1.jpg">
 					<h1 style="color: whitesmoke; font-size: 4rem">Sputnik 1</h1>

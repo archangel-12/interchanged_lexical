@@ -9,12 +9,12 @@
 		<div class="slides">
 			<section>
 				<section data-background-image="https://pbs.twimg.com/media/GVlUy37boAA6-QH.jpg">
-					<h1 style="font-size: 4rem; color: black">Indonesia pada masa Demokrasi liberal hingga Demokrasi terpimpin</h1>
+					<h1 style="font-size: 4rem; color: Pink">Indonesia di tengah konstelasi Perang Dingin</h1>
 				</section>
 				<section data-background-image="https://histlit.fas.harvard.edu/sites/projects.iq.harvard.edu/files/styles/os_files_xxlarge/public/histlit/files/screen_shot_2019-11-26_at_8.59.29_am.png?m=1574776819&itok=lZyW2vi3" />
 				<section data-background-image="https://miro.medium.com/v2/resize:fit:1400/0*u-K6cRlTQc1sVO3W.jpg" />
 				<section data-background-image="https://miro.medium.com/v2/resize:fit:1400/0*u-K6cRlTQc1sVO3W.jpg">
-					<q style="font-size: 3rem; color: black">Berbeda dengan perang tradisional, perang ini tidak melibatkan pertempuran langsung dalam skala besar antara kedua negara adikuasa, tetapi ditandai dengan perang proksi, perlombaan senjata nuklir, spionase, propaganda, dan persaingan ideologis untuk mendapatkan pengaruh global</q>
+					<q style="font-size: 3rem; color: yellow">Berbeda dengan perang tradisional, perang ini tidak melibatkan pertempuran langsung dalam skala besar antara kedua negara adikuasa, tetapi ditandai dengan perang proksi, perlombaan senjata nuklir, spionase, propaganda, dan persaingan ideologis untuk mendapatkan pengaruh global</q>
 				</section>
 				<section data-background-image="https://origins.osu.edu/sites/default/files/inline-images/2023-04-14%20%281%29.png" />
 				<section data-background-image="https://politiikasta.fi/wp-content/uploads/2020/09/INF3-1295-Marshall-Aid-cartoon-2.jpg" />
@@ -35,6 +35,7 @@
 				<section data-background-image="https://mf.b37mrtl.ru/rbthmedia/images/2019.03/article/5c9cbf9f85600a18d643c492.jpg" />
 				<section data-background-image="https://mf.b37mrtl.ru/rbthmedia/images/2019.03/article/5c9cbf9f85600a18d643c492.jpg">
 					<h1 style="color: black; font-size: 4rem">Юрий Алексеевич Гагарин</h1>
+					<p style="color: black">Yuri Alexyevich Gagarin</p>
 				</section>
 				<section data-background-image="https://space.skyrocket.de/img_sat/sputnik-1__1.jpg">
 					<h1 style="color: whitesmoke; font-size: 4rem">Sputnik 1</h1>

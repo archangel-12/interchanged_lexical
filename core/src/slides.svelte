@@ -9,6 +9,9 @@
 	import troll from './public/troll.jpg';
 	import hihi from './public/hihi.jpg';
 	import lmao from './public/lmao.png';
+	import lol from './public/hihi.png';
+	import suicidalIdeation from './public/im suicidal.jpeg';
+	import prri from './public/prri.jpg';
 </script>
 
 <Presentation>
@@ -140,8 +143,55 @@
 					</div>
 					<h2 style="margin-top: 20px; font-size: 4rem; color: black">Kondisi Ekonomi +62 pada era Demokrasi Liberal</h2>
 				</section>
-				<section data-background-image="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhhdWlnbHdzeGFqMXJ4aG5qMHZnZTdsMG9jcWl5M3BjZ3dxYmJsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9fcxfQ951fehefos9s/giphy.webp"></section>
-			<!--this is the start of sub-bab 2 pt.2-->
+				<section data-background-image="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhhdWlnbHdzeGFqMXJ4aG5qMHZnZTdsMG9jcWl5M3BjZ3dxYmJsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9fcxfQ951fehefos9s/giphy.webp" data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)">
+					<h2 style="font-size: 4rem;">Usaha untuk memperbaiki Perekonomian</h2>
+					<div class="r-hstack justify-center">
+						<div data-id="box1" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"></div>
+						<div data-id="box2" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"></div>
+						<div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"></div>
+						<div data-id="box4" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"></div>
+					</div>
+				</section>
+				<section data-background-image="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhhdWlnbHdzeGFqMXJ4aG5qMHZnZTdsMG9jcWl5M3BjZ3dxYmJsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9fcxfQ951fehefos9s/giphy.webp" data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)">
+					<div class="r-hstack justify-center">
+						<div data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 250px; height: 100px; margin: 10px;">Gunting Syarifuddin</div>
+						<div data-id="box2" data-auto-animate-delay="0.1" style="background: magenta; width: 250px; height: 100px; margin: 10px;">Gerakan Benteng</div>
+						<div data-id="box3" data-auto-animate-delay="0.2" style="background: yellow; width: 280px; height: 130px; margin: 10px;">Nasionalisasi De Javasche Bank</div>
+						<div data-id="box4" data-auto-animate-delay="0.2" style="background: grey; width: 250px; height: 100px; margin: 10px;">Sistem Ali-Baba</div>
+					</div>
+					<h2 style="margin-top: 20px;">Usaha untuk memperbaiki Perekonomian</h2>
+				</section>
+				<section data-background-image="https://mmc.tirto.id/image/otf/640x0/2019/03/16/sukarno-and-aidit--1--associated-press_ratio-16x9.jpg">
+					<h1 style="font-size: 4rem;">Nasakom</h1>
+				</section>
+				<section data-background-image={suicidalIdeation}>
+					<h1 style="font-size: 4rem; color: black">Dekrit Presiden 1950</h1>
+				</section>
+			<!--this is the end of sub-bab 2 pt.2-->
+			</section>
+
+			<section>
+				<!--this is the start of sub-bab 2 pt.3-->
+				<!--aku tidak bisa melakukan ini lagi...-->
+				<!--apakah ada yang bisa menolong ku???-->
+				<!--aku benar-benar sudah tidak tahan lagi-->
+				<section data-background-image="https://media.philstar.com/photos/2021/04/13/editorial_2021-04-13_21-12-58.jpg">
+					<h1 style="font-size: 4rem; color:black">Ketidakseimbangan Relasi Pusat & Daerah Serta Ancaman Disintegrasi</h1>
+				</section>
+				<section data-background-image={lol}>
+					<h1 style="font-size: 4rem; color: black">Darul Islam/Tentara Islam Indonesia</h1>
+				</section>
+				<section data-background-image="https://pagaralampos.disway.id/upload/835c6e762b54047eff5e8bc9c3e54b98.jpeg" />
+				<section data-background-image={prri}>
+					<h1 style="font-size: 4rem; color:black">PRRI/Permesta</h1>
+				</section>
+				<section data-background-image={prri} />
+				<!--this is the end of sub-bab 2 pt.3-->
+			</section>
+
+			<section>
+				<!--this is the start of sub-bab 2 pt.4-->
+				<section></section>
 			</section>
 
 			<section>

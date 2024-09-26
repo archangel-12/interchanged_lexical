@@ -19,7 +19,7 @@
 		<div class="slides">
 			<section>
 				<!--this is the start of sub-bab 2 pt.1-->
-				<section data-background-image={Speech}>
+				<section data-background-image="https://i.pinimg.com/564x/01/3f/01/013f010043a89a1abc898b1ec2638801.jpg">
 					<h1 style="font-size: 4rem; color: black">Ketersebaran Kekuatan & Identitas Nasional Baru</h1>
 				</section>
 				<section data-background-image={USI}>
@@ -29,8 +29,8 @@
 					</div>
 				</section>
 				<section data-background-image={USI} />
-				<section data-background-image="https://media1.tenor.com/m/LjVFJn-BVE0AAAAd/trump-kamala.gif">
-					<h1 style="font-size: 4rem; color: black">1</h1>
+				<section data-background-image="https://i.pinimg.com/originals/ba/69/d9/ba69d93ff4bc0199c1a3478356448269.gif">
+					<h1 style="font-size: 4rem; color: white">1</h1>
 					<h2 style="font-size: 4rem; color: white">Perkembangan Politik pada Masa Demokrasi Liberal</h2>
 				</section>
 			</section>
@@ -195,7 +195,13 @@
 			</section>
 
 			<section>
-				<section data-background-image="https://media.tenor.com/WUfk54aazc8AAAAM/filthy-frank-dance-filthy-frank.gif" />
+				<section data-background-image="https://i.pinimg.com/originals/a1/fd/d7/a1fdd72bd8b04c89b591106b5abd87fb.gif">
+					<q style="font-size: 3rem; color: black">
+						If the system breaks down the consequences will still be very painful. But the bigger the system grows the more disastrous the results of its breakdown will be, so if it is to break down it had best break down sooner rather than later
+					</q>
+					<p style="font-size: 40px; color:black;">- Theodore John Kaczynski</p>
+					<p class="text-right mt-6" style="font-size: 20px; color:chocolate">see you on Oct 20</p>
+				</section>
 			</section>
 		</div>
 	</div>

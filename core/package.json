@@ -1,7 +1,7 @@
 {
-	"name": "subbab",
+	"name": "kelas_xi",
 	"private": true,
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
@@ -13,20 +13,20 @@
 		"@sveltejs/vite-plugin-svelte": "^3.1.2",
 		"@tsconfig/svelte": "^5.0.4",
 		"@types/d3-interpolate": "^3.0.4",
-		"@types/node": "^22.7.0",
+		"@types/node": "^22.7.4",
 		"@types/reveal.js": "^5.0.3",
 		"autoprefixer": "^10.4.20",
 		"postcss": "^8.4.47",
 		"postcss-load-config": "^6.0.1",
 		"prettier": "^3.3.3",
-		"prettier-plugin-svelte": "^3.2.6",
+		"prettier-plugin-svelte": "^3.2.7",
 		"prettier-plugin-tailwindcss": "^0.6.8",
 		"svelte": "^4.2.19",
-		"svelte-check": "^4.0.2",
+		"svelte-check": "^4.0.4",
 		"tailwindcss": "^3.4.13",
 		"tslib": "^2.7.0",
 		"typescript": "^5.6.2",
-		"vite": "^5.4.7"
+		"vite": "^5.4.8"
 	},
 	"dependencies": {
 		"@fontsource-variable/jetbrains-mono": "^5.1.0",

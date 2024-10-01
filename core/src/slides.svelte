@@ -120,7 +120,6 @@
 						<h2 style="font-size: 3rem;">Results</h2>
 						<p>
 							There was a large gap between the "big 4" (PNI, Masjumi, NU and PKI, with more than three-quarters of the vote shared among them) and the rest of the parties, but contrary to expectations, the number of parties actually increased - there were now 28 with seats in the legislature as opposed to 20 before the election, with the largest party holding only 22% of seats
-							In his opening speech, President Sukarno called for an Indonesian form of democracy, and over the next few years, he would speak more about his concept (konsepsi) of a new system of government. In 1957, the era of Liberal Democracy came to an end with the establishment of Guided Democracy. Indonesia would have to wait until 1999 for its next free national elections
 						</p>
 					</div>
 				</section>
@@ -150,12 +149,31 @@
 					<h1 style="font-size: 4rem; color:black">PRRI/Permesta</h1>
 				</section>
 				<section data-background-image={prri} />
+				<section data-background-image="https://rozenbergquarterly.com/wp-content/uploads/2014/11/Fugire1Holtz.png">
+					<h1 style="font-size: 4rem; color: black">Pemberontakan Madiun</h1>
+				</section>
 				<!--this is the end of sub-bab 2 pt.3-->
 			</section>
 
 			<section>
 				<!--this is the start of sub-bab 2 pt.4-->
-				<section></section>
+				<section data-background-image="https://pbs.twimg.com/media/E1_tqBSVkAEtCu8.jpg:large">
+					<h1 style="font-size: 4rem; color: white">Pelaksanaan Demokrasi Terpimpin</h1>
+				</section>
+				<section data-background-image="https://www.indonesia-travel.com/cdn/wordpress/id_1/2018/05/soekarno-discours.jpg">
+					<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+						Disebut demokrasi terpimpin karena demokrasi di Indonesia pada saat itu mengandalkan pada kepemimpinan Presiden Soekarno. Kekuasaan presiden sangatlah besar dan mutlak,
+						mengakibatkan yang awalya demokratisasi, menuju otoriter
+					</div>
+				</section>
+				<section data-background-image="https://images-tm.tempo.co/all/2023/10/20/844614/844614_1200.jpg">
+					<h1 style="font-size: 4rem; color: white">
+						Kebijakan Pendidikan
+					</h1>
+				</section>
+				<section data-background-image="https://images-tm.tempo.co/all/2023/10/20/844614/844614_1200.jpg">
+					
+				</section>
 				<!--this is the end of sub-bab 2 pt.4-->
 			</section>
 

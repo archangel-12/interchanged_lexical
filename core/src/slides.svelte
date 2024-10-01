@@ -150,7 +150,7 @@
 				</section>
 				<section data-background-image={prri} />
 				<section data-background-image="https://rozenbergquarterly.com/wp-content/uploads/2014/11/Fugire1Holtz.png">
-					<h1 style="font-size: 4rem; color: black">Pemberontakan Madiun</h1>
+					<h1 style="font-size: 4rem; color: black">Pemberontakan Madiun 1948</h1>
 				</section>
 				<!--this is the end of sub-bab 2 pt.3-->
 			</section>

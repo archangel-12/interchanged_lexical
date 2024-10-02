@@ -7,6 +7,7 @@
 	import prri from './public/prri.jpg';
 	import Buzz from './public/buzz.jpg';
 	import suicide from './public/suicide.jpg';
+	import insanity from './public/long live tunku destroy sukarno.jpg';
 </script>
 
 <Presentation>
@@ -166,15 +167,44 @@
 						mengakibatkan yang awalya demokratisasi, menuju otoriter
 					</div>
 				</section>
-				<section data-background-image="https://images-tm.tempo.co/all/2023/10/20/844614/844614_1200.jpg">
-					<h1 style="font-size: 4rem; color: white">
-						Kebijakan Pendidikan
-					</h1>
+				<section data-background-image="https://asumsi.co/wp-content/uploads/5be66f453dd9f163579033.jpg">
+					<h1 style="font-size:4rem; color:black">Asian Games IV & Penyelenggaraan GANEFO</h1>
 				</section>
-				<section data-background-image="https://images-tm.tempo.co/all/2023/10/20/844614/844614_1200.jpg">
-					
+				<section data-background-image="https://www.berdikarionline.com/cdn/2018/08/Ganefo-1-740x431@2x.jpg">
+					<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: center;">
+						<p>
+							Indonesia pernah menjadi tuan rumah penyelenggara Asian Games IV pada tahun 1962. Gambar yang kalian lihat adalah pembukaan acara yang berlangsung di Jakarta, tahun 1962.
+							Tentunya di GBK. Apakah kalian tahu jika USSR / Rusia membantu pembangunan GBK secara tidak langsung?
+						</p>
+					</div>
 				</section>
+				<section data-background-image="https://d22gwcrfo2de51.cloudfront.net/wp-content/uploads/2020/08/UPACARA-PEMBUKAAN-GANEFO-I-2-06-scaled.jpg">
+					<div style="position: left; width: 30%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+						<p>
+							Begitu pula dengan GANEFO. GANEFO adalah pesta olahraga yang dikhususkan untuk negara berkembang ataupun yang baru merdeka. Adanya pembukaan GANEFO
+							ini ialah bentuk respon dari Indonesia terhadap Komite Olahraga Internasional (IOC) karena Indonesia tidak berniat untuk mengundang יִשְׂרָאֵל dan 台湾
+							ke dalam Asian Games sebelumnya
+						</p>
+					</div>
+				</section>
+				<section data-background-image="https://holdinglifeliable.wordpress.com/wp-content/uploads/2017/08/konfrontasi-malaysia-140211c.jpg?w=750">
+					<h1 style="font-size: 4rem; color:whitesmoke">Konfrontasi dengan Malaysia</h1>
+				</section>
+				<section data-background-image={insanity}>
+					<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+						<p>
+							Sikap rezim orde lama yang konfrontatif terhadap kekuatan barat antara lain dengan konfrontasi dengan Malaysia. Hal tersebut karena Sukarno
+							menganggap Federasi Malaysia (perlu diketahui, Singapura pernah menjadi bagian dari Malaysia sebelum diusir dari federasi) adalah bentukan Inggris 
+							yang dimana menurut Sukarno, ini adalah proyek neokolonialisme Inggris
+						</p>
+					</div>
+				</section>
+				<section data-background-iframe="https://www.jstor.org/stable/40199519" data-background-interactive />
 				<!--this is the end of sub-bab 2 pt.4-->
+			</section>
+
+			<section>
+				<section></section>
 			</section>
 
 			<section>

@@ -9,6 +9,8 @@
 	import suicide from './public/suicide.jpg';
 	import insanity from './public/long live tunku destroy sukarno.jpg';
 	import RoundTableConference from './public/kmb.jpg';
+	import DeJavascheBank from './public/ahaha.jpg';
+	import DevDay from './public/lol.jpg';
 </script>
 
 <Presentation>
@@ -134,7 +136,25 @@
 					<p style="font-size: 3rem; color:black">Hutang</p>
 				</section>
 				<section data-background-image={RoundTableConference} />
-				<!--CONTINUE TOMORROW-->
+				<section data-background-image="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/03/11/Gunting-Syafruddin-849070892.jpeg">
+					<h1 style="font-size: 4rem; color:burlywood">Gunting Syarifuddin</h1>
+				</section>
+				<section data-background-image="https://a-cdn.sindonews.net/dyn/620/content/2017/05/30/33/1209270/mengenang-sumitro-djojohadikusumo-sang-penggagas-ekonomi-benteng-zUy-thumb.jpg">
+					<h1 style="font-size: 4rem; color:black">Sistem Gerakan Banteng</h1>
+				</section>
+				<section data-background-image={DeJavascheBank}>
+					<h1 style="font-size: 4rem; color:black">Nasionalisasi De Javasche Bank</h1>
+				</section>
+				<section data-background-image="https://media1.tenor.com/m/sNLz-U7kHd4AAAAC/nod-class.gif">
+					<h1 style="font-size: 4rem; color:black">Sistem Ekonomi Ali-Baba</h1>
+				</section>
+				<section data-background-image="https://wishu.io/wp-content/uploads/2023/11/pb060014.webp">
+					<h1 style="font-size: 4rem; color:burlywood">Persetujuan Finansial Ekonomi</h1>
+					<p style="font-size: 3rem; color:white">Finek</p>
+				</section>
+				<section data-background-image="https://civitasbook.com/_z_album_b/d2/m1/p/aaaaadmp89_pahlawan20140305521119.jpg">
+					<h1 style="font-size: 4rem; color:black">Rencana Pembangunan Lima Tahun</h1>
+				</section>
 				<section data-background-image="https://mmc.tirto.id/image/otf/640x0/2019/03/16/sukarno-and-aidit--1--associated-press_ratio-16x9.jpg">
 					<h1 style="font-size: 4rem;">Nasakom</h1>
 				</section>

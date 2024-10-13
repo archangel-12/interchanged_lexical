@@ -8,6 +8,7 @@
 	import Buzz from './public/buzz.jpg';
 	import suicide from './public/suicide.jpg';
 	import insanity from './public/long live tunku destroy sukarno.jpg';
+	import RoundTableConference from './public/kmb.jpg';
 </script>
 
 <Presentation>
@@ -125,6 +126,15 @@
 					</div>
 				</section>
 				<section data-background-image={lmao} />
+				<!--this is the start of THE ECONOMY PART OF TOMORROW OCT. 13 OF WHICH THE THING THAT'LL BE CONTINUED WITH NASAKOM AND SUCH-->
+				<section data-background-image="https://i.pinimg.com/originals/63/59/99/635999fcf5c4a54de2215c55b88ff68f.gif">
+					<h1 style="font-size: 4rem; color:azure">Kondisi Ekonomi +62 pada masa Demokrasi Liberal</h1>
+				</section>
+				<section data-background-image={RoundTableConference}>
+					<p style="font-size: 3rem; color:black">Hutang</p>
+				</section>
+				<section data-background-image={RoundTableConference} />
+				<!--CONTINUE TOMORROW-->
 				<section data-background-image="https://mmc.tirto.id/image/otf/640x0/2019/03/16/sukarno-and-aidit--1--associated-press_ratio-16x9.jpg">
 					<h1 style="font-size: 4rem;">Nasakom</h1>
 				</section>

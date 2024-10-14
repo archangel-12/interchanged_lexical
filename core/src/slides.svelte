@@ -148,19 +148,20 @@
 				<section data-background-image="https://media1.tenor.com/m/sNLz-U7kHd4AAAAC/nod-class.gif">
 					<h1 style="font-size: 4rem; color:black">Sistem Ekonomi Ali-Baba</h1>
 				</section>
-				<section data-background-image="https://wishu.io/wp-content/uploads/2023/11/pb060014.webp">
-					<h1 style="font-size: 4rem; color:burlywood">Persetujuan Finansial Ekonomi</h1>
-					<p style="font-size: 3rem; color:white">Finek</p>
+				<section data-background-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY1THzn81ucV323rdAB6qS7fYqofTWvwJnlF4CxkJz0fbmiXOqaFDeJDi7DGFiQCFDJcSqURAiFhyyKWbJuIO2vttZPpozG4110RmqQ3l2WRu-W2kSkmYW8KSPgl9_kSM-qrcWBLc4-co/s1600/48884.jpg">
+					<h1 style="font-size: 4rem; color:black">Persetujuan Finansial Ekonomi</h1>
+					<p style="font-size: 3rem; color:black">Finek</p>
 				</section>
 				<section data-background-image="https://civitasbook.com/_z_album_b/d2/m1/p/aaaaadmp89_pahlawan20140305521119.jpg">
 					<h1 style="font-size: 4rem; color:black">Rencana Pembangunan Lima Tahun</h1>
 				</section>
-				<section data-background-image="https://mmc.tirto.id/image/otf/640x0/2019/03/16/sukarno-and-aidit--1--associated-press_ratio-16x9.jpg">
+				<section data-background-image="https://riaunews.com/wp-content/uploads/2023/09/soekarno-dan-dn-aidit.jpg">
 					<h1 style="font-size: 4rem;">Nasakom</h1>
 				</section>
 				<section data-background-image={suicidalIdeation}>
-					<h1 style="font-size: 4rem; color: black">Dekrit Presiden 1950</h1>
+					<h1 style="font-size: 4rem; color: black">Dekrit Presiden 1959</h1>
 				</section>
+				<section data-background-image="https://i.pinimg.com/originals/cb/ed/74/cbed748794a095b298b21bc520f4d60d.gif" />
 			<!--this is the end of sub-bab 2 pt.2-->
 			</section>
 

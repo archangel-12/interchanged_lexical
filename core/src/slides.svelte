@@ -9,8 +9,7 @@
 	import suicide from './public/suicide.jpg';
 	import insanity from './public/long live tunku destroy sukarno.jpg';
 	import RoundTableConference from './public/kmb.jpg';
-	import DeJavascheBank from './public/ahaha.jpg';
-	import DevDay from './public/lol.jpg';
+	import DeJavascheBank from './public/ahaha.jpg'
 </script>
 
 <Presentation>
@@ -21,13 +20,13 @@
 				<section data-background-image="https://pbs.twimg.com/media/GVlUy37boAA6-QH.jpg">
 					<h1 style="font-size: 4rem; color: black">Indonesia di tengah konstelasi Perang Dingin</h1>
 				</section>
-				<section data-background-image={suicide} />
-				<section data-background-image="https://miro.medium.com/v2/resize:fit:1400/0*u-K6cRlTQc1sVO3W.jpg" />
+				<section data-background-image={suicide}></section>
+				<section data-background-image="https://miro.medium.com/v2/resize:fit:1400/0*u-K6cRlTQc1sVO3W.jpg"></section>
 				<section data-background-image="https://miro.medium.com/v2/resize:fit:1400/0*u-K6cRlTQc1sVO3W.jpg">
 					<q style="font-size: 3rem; color: black">Berbeda dengan perang tradisional, perang ini tidak melibatkan pertempuran langsung dalam skala besar antara kedua negara adikuasa, tetapi ditandai dengan perang proksi, perlombaan senjata nuklir, spionase, propaganda, dan persaingan ideologis untuk mendapatkan pengaruh global</q>
 				</section>
-				<section data-background-image="https://origins.osu.edu/sites/default/files/inline-images/2023-04-14%20%281%29.png" />
-				<section data-background-image="https://politiikasta.fi/wp-content/uploads/2020/09/INF3-1295-Marshall-Aid-cartoon-2.jpg" />
+				<section data-background-image="https://origins.osu.edu/sites/default/files/inline-images/2023-04-14%20%281%29.png"></section>
+				<section data-background-image="https://politiikasta.fi/wp-content/uploads/2020/09/INF3-1295-Marshall-Aid-cartoon-2.jpg"></section>
 				<section data-background-image="https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/11/b0f698b0-b3cb-4a9e-ac73-c43054c3690f/thumbnail/640x360/8c3784fe347c9bf7eff6c8a47f7b7ad1/nato-member-map-7.jpg?v=631cf5f2b4e8db7f9bc428589402864d">
 					<h2 style="font-size: 3rem; color: black;">NATO</h2>
 					<p style="font-size: 3rem; color: black;">North Atlantic Treaty Organization</p>
@@ -35,8 +34,8 @@
 				<section data-background-image="https://cdn.britannica.com/62/64262-050-B5A6C575/Cold-War-membership-Europe-Soviet-Union-satellites.jpg">
 					<h2 style="font-size: 4rem; color: black">Pakta Warsawa</h2>
 				</section>
-				<section data-background-image="https://mmc.tirto.id/image/2018/03/10/khruschev-sukarno--life.jpg" />
-				<section data-background-iframe="https://en.wikipedia.org/wiki/Operation_Trikora" data-background-interactive />
+				<section data-background-image="https://mmc.tirto.id/image/2018/03/10/khruschev-sukarno--life.jpg"></section>
+				<section data-background-iframe="https://en.wikipedia.org/wiki/Operation_Trikora" data-background-interactive></section>
 			</section>
 			<section>
 				<section data-background-image="https://i.pinimg.com/originals/e7/ef/67/e7ef6791661662b108f2d5e7a4118e00.gif">
@@ -73,7 +72,7 @@
 						<p>Dan ini, adalah roket N-1. Ini adalah roket yang seharusnya menjadi kompetitor Saturn 5. Pemerintah Soviet memutuskan untuk menghentikan pengembangan roket ini dikarenakan roket ini mengalami kecacatan dalam hal penerbangan</p>
 					</div>
 				</section>
-				<section data-background-image="https://upload.wikimedia.org/wikipedia/en/7/71/Laika_%28Soviet_dog%29.jpg" />
+				<section data-background-image="https://upload.wikimedia.org/wikipedia/en/7/71/Laika_%28Soviet_dog%29.jpg"></section>
 				<section data-background-image="https://upload.wikimedia.org/wikipedia/en/7/71/Laika_%28Soviet_dog%29.jpg">
 					<h1 style="font-size: 4rem; color: black">Perang Dingin kenapa ada hubungannya dengan Anjing?</h1>
 				</section>
@@ -94,7 +93,7 @@
 				<section data-background-image="https://setkab.go.id/wp-content/uploads/2015/04/Photo-bersama1.jpg">
 					<h1 style="font-size: 4rem; color: white">Konferensi Asia-Afrika</h1>
 				</section>
-				<section data-background-image="https://i.pinimg.com/originals/45/5e/03/455e0346c3288117ae19c659ed5ecec8.gif" />
+				<section data-background-image="https://i.pinimg.com/originals/45/5e/03/455e0346c3288117ae19c659ed5ecec8.gif"></section>
 			 <!--this is the end of sub-bab 1 pt.1-->
 			</section>
 
@@ -109,7 +108,7 @@
 						<p>De Verenigde Staten van Indonesië waren een kortstondige federale staat waaraan Nederland op 27 december 1949, na de Nederlands-Indonesische Ronde Tafel Conferentie, formeel de soevereiniteit over Nederlands-Indië overdroeg.</p>
 					</div>
 				</section>
-				<section data-background-image={USI} />
+				<section data-background-image={USI}></section>
 				<section data-background-image="https://i.pinimg.com/originals/a1/09/2d/a1092da6cb2c681c7d50ddef7635167d.gif">
 					<h1 style="font-size: 4rem; color: black">1</h1>
 					<h2 style="font-size: 4rem; color: white">Perkembangan Politik pada Masa Demokrasi Liberal</h2>
@@ -127,7 +126,7 @@
 						</p>
 					</div>
 				</section>
-				<section data-background-image={lmao} />
+				<section data-background-image={lmao}></section>
 				<!--this is the start of THE ECONOMY PART OF TOMORROW OCT. 13 OF WHICH THE THING THAT'LL BE CONTINUED WITH NASAKOM AND SUCH-->
 				<section data-background-image="https://i.pinimg.com/originals/63/59/99/635999fcf5c4a54de2215c55b88ff68f.gif">
 					<h1 style="font-size: 4rem; color:azure">Kondisi Ekonomi +62 pada masa Demokrasi Liberal</h1>
@@ -135,7 +134,7 @@
 				<section data-background-image={RoundTableConference}>
 					<p style="font-size: 3rem; color:black">Hutang</p>
 				</section>
-				<section data-background-image={RoundTableConference} />
+				<section data-background-image={RoundTableConference}></section>
 				<section data-background-image="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/03/11/Gunting-Syafruddin-849070892.jpeg">
 					<h1 style="font-size: 4rem; color:burlywood">Gunting Syarifuddin</h1>
 				</section>
@@ -161,7 +160,7 @@
 				<section data-background-image={suicidalIdeation}>
 					<h1 style="font-size: 4rem; color: black">Dekrit Presiden 1959</h1>
 				</section>
-				<section data-background-image="https://i.pinimg.com/originals/cb/ed/74/cbed748794a095b298b21bc520f4d60d.gif" />
+				<section data-background-image="https://i.pinimg.com/originals/cb/ed/74/cbed748794a095b298b21bc520f4d60d.gif"></section>
 			<!--this is the end of sub-bab 2 pt.2-->
 			</section>
 
@@ -176,11 +175,11 @@
 				<section data-background-image={lol}>
 					<h1 style="font-size: 4rem; color: black">Darul Islam/Tentara Islam Indonesia</h1>
 				</section>
-				<section data-background-image="https://pagaralampos.disway.id/upload/835c6e762b54047eff5e8bc9c3e54b98.jpeg" />
+				<section data-background-image="https://pagaralampos.disway.id/upload/835c6e762b54047eff5e8bc9c3e54b98.jpeg"></section>
 				<section data-background-image={prri}>
 					<h1 style="font-size: 4rem; color:black">PRRI/Permesta</h1>
 				</section>
-				<section data-background-image={prri} />
+				<section data-background-image={prri}></section>
 				<section data-background-image="https://rozenbergquarterly.com/wp-content/uploads/2014/11/Fugire1Holtz.png">
 					<h1 style="font-size: 4rem; color: black">Pemberontakan Madiun 1948</h1>
 				</section>
@@ -230,16 +229,19 @@
 						</p>
 					</div>
 				</section>
-				<section data-background-iframe="https://www.jstor.org/stable/40199519" data-background-interactive />
+				<section data-background-iframe="https://www.jstor.org/stable/40199519" data-background-interactive></section>
 				<!--this is the end of sub-bab 2 pt.4-->
 			</section>
 
 			<section>
-				<section />
-			</section>
-
-			<section>
-				<section data-background-video="https://v1.pinimg.com/videos/mc/720p/0f/f6/39/0ff639354f4245d35b44e41847b0d4b1.mp4" data-background-video-loop data-background-video-muted />
+				<section data-background-image="https://i.pinimg.com/originals/3e/ea/a2/3eeaa26d248b53f0e4cd8a738b7d289f.gif">
+					<p style="font-size: 3rem; color:black;">
+						You are now at the very end of this presentation site. By default, these presentation slides were originally generated 
+						by <a href="https://animotion.pages.dev/" style="color: blue;">Animotion</a>, with the script solely based on <a href="https://svelte.dev/" style="color: orangered;">Svelte</a>. 
+						This stack really helped me speed up the process from launch to deployment :)
+					</p>
+				</section>
+				<section data-background-video="https://v1.pinimg.com/videos/mc/720p/0f/f6/39/0ff639354f4245d35b44e41847b0d4b1.mp4" data-background-video-loop></section>
 			</section>
 		</div>
 	</div>

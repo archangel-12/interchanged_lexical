@@ -4,7 +4,7 @@
 This is the source code for the presentation slides that have been used during teaching sessions. I realize that it might not be suitable for high school standards, but this is the way I prefer when creating slides
 ___
 ### Where does is this came from?
-All of the slides are generated using [Animotion](https://animotion.pages.dev/), with all scripts written in [Svelte](https://animotion.pages.dev/). By default, Animotion is a presentation framework based on [reveal.js](reveal.js) but with a Svelte flavor. I hope that clarifies things
+All of the slides are generated using [Animotion](https://animotion.pages.dev/), with all scripts written in [Svelte](https://svelte.dev/). By default, Animotion is a presentation framework based on [reveal.js](reveal.js) but with a Svelte flavor. I hope that clarifies things
 
 ### Tools & Plugins:
 - [Animotion](https://animotion.pages.dev/),
